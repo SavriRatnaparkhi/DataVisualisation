@@ -8,7 +8,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyK_LgWrkkDlJwkAARLfJqadPEyhkg8fwDtg&usqp=CAU");https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyK_LgWrkkDlJwkAARLfJqadPEyhkg8fwDtg&usqp=CAU
+             background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2019%2F07%2F16%2F11%2F39%2Fcharles-4341624__340.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fformula%25201%2F&tbnid=zKp_iCeagP0VRM&vet=10CMcBEDMotgFqFwoTCNiOlO6wjPsCFQAAAAAdAAAAABAD..i&docid=okbX3NY4Jc6HbM&w=563&h=340&q=f1%20images&authuser=2&ved=0CMcBEDMotgFqFwoTCNiOlO6wjPsCFQAAAAAdAAAAABAD")
              background-attachment: fixed;
              background-size: cover
          }}
